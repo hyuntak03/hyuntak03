@@ -1,6 +1,6 @@
 ![Hyuntak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyuntak03&show_icons=true)
 
-github-readme-stats.vercel.app/api/top-langs/?username={hyuntak03}&langs_count=8
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntak03)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hyuntak03)
 <!--
